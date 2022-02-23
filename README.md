@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mtkonczal
-- 👀 I’m interested in learning how this site works.
+- 👀 I’m interested in learning how Github works for my projects.
 - 🌱 I’m currently learning how to be better at R and Stata.
 - 📫 How to reach me: twitter or my website.
 
